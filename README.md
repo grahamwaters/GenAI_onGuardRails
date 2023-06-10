@@ -1,4 +1,4 @@
-# GenAI on Rails
+# GenAI on GuardRails
 Protecting your PID, IP, and Company secrets while using GenAI.
 
 # Introduction
