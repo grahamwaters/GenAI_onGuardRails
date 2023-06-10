@@ -1,4 +1,4 @@
-# GuardRailProtectorate
+# GenAI on Rails
 Protecting your PID, IP, and Company secrets while using GenAI.
 
 # Introduction
