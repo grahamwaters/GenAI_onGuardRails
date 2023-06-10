@@ -21,7 +21,10 @@ The balance is tricky: Information that becomes completely anonymous also become
 “Very quickly, with a few bits of information, everyone is unique,” said Dr. Erlich.
 """
 
-A.I.R.G.A.P.
+<div align="center">
+<h1> A.I.R.G.A.P. </h1>
+<h2> Guardrails for the new GenAI-Age </h2>
+</div>
 
 # Assemble
 Form a team of experts within your company that will be responsible for developing your security protocols. This team should include at least one person from each of the following departments: IT, Legal, HR, and Marketing. This team will be responsible for developing your security protocols and for training your employees on how to use GenAI securely. Once you have
