@@ -234,3 +234,5 @@ These repositories provide a variety of tools and techniques to address the chal
 
 # Acknowledgements
 - Special thanks to gpt-4, github copilot, chatGPT as supplementary material generators.
+
+https://microsoft.github.io/presidio/analyzer/
