@@ -30,4 +30,4 @@ The balance is tricky: Information that becomes completely anonymous also become
 <!-- embed this url -->
 <!-- https://www.canva.com/design/DAFl1lG6kMY/zf6vNj2_jhlMb3qVn6eLKQ/view -->
 <!-- in an iframe -->
-<iframe src="https://www.canva.com/design/DAFl1lG6kMY/zf6vNj2_jhlMb3qVn6eLKQ/view" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+click this url to visit the presentation website: https://www.canva.com/design/DAFl1lG6kMY/zf6vNj2_jhlMb3qVn6eLKQ/view
