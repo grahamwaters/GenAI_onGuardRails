@@ -7,6 +7,7 @@ Building Guardrails for Yourself and Your Company with Python while Using Genera
 
 Data scientists, analysts, and every person across a multidisciplinary spectrum at any organization must consider implementing guardrails immediately for their employees that don't limit the potential of how AI will revolutionize the world but keep it in check to prevent their PII and IP from slipping into the ether of the regenerative reinforcement algorithm that feeds OpenAI's excellent new toolkit. In addition, It's easy to assume that the machine must be correct because it usually is. But in reality, a machine is simply a mechanical brain, and brains are sometimes wrong and even hallucinate. We must discuss these topics to move forward as organizations that thrive in the new age of AI.
 
+![1](main.png)
 
 # Preface
 This is a simple guide to help you protect your PID, IP, and Company secrets while using GenAI. This guide is not meant to be a comprehensive guide to security, but rather a simple guide to help you get started.
@@ -22,8 +23,11 @@ The balance is tricky: Information that becomes completely anonymous also become
 """
 
 <div align="center">
-<h1> A.I.R.G.A.P. </h1>
+<h1> What we need are better Anonymization Techniques </h1>
 <h2> Guardrails for the new GenAI-Age </h2>
 </div>
 
-https://www.canva.com/design/DAFl1lG6kMY/zf6vNj2_jhlMb3qVn6eLKQ/view
+<!-- embed this url -->
+<!-- https://www.canva.com/design/DAFl1lG6kMY/zf6vNj2_jhlMb3qVn6eLKQ/view -->
+<!-- in an iframe -->
+<iframe src="https://www.canva.com/design/DAFl1lG6kMY/zf6vNj2_jhlMb3qVn6eLKQ/view" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
